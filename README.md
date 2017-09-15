@@ -3,8 +3,8 @@
 
 To Run:
 
-npm install
+`npm install`
 
-node app.js
+`npm start`
 
 open https://localhost:3000/ on your browser.
